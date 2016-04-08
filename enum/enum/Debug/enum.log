@@ -1,0 +1,13 @@
+﻿Build started 01/07/2015 18:34:09.
+     1>Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\enum\enum\enum.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\enum.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\enum\enum\main.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>Done Building Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\enum\enum\enum.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.18

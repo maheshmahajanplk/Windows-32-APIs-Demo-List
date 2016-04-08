@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RanamingFileWithPath", "RanamingFileWithPath\RanamingFileWithPath.pyproj", "{E1EF7E85-02CC-42AF-BC37-97ABEE00A100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EF7E85-02CC-42AF-BC37-97ABEE00A100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EF7E85-02CC-42AF-BC37-97ABEE00A100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

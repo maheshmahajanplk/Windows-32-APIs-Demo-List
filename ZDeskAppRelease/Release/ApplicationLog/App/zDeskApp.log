@@ -1,0 +1,13 @@
+2015/01/16 20:33:19	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/16 20:33:19	9999		0	0			MSG:   Interval value found in DeviceList.ini is	0		
+2015/01/16 20:33:21	9999		0	0			MSG:   Cycle count received from DB is 	0		
+2015/01/16 20:33:21	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	a696d44f3b1462bdaafd9949115d936f		
+2015/01/16 20:33:21	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum			
+2015/01/16 20:33:21	9999		0	0			MSG:  moving file to AlertTkt folder as could not read previous checksum from ini file			
+2015/01/16 20:39:44	9999		0	0			404			
+2015/01/16 20:39:44	9999		0	0			ERR: WebPost Failed while getting Config.xml file update first time			
+2015/01/16 20:39:44	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/16 20:39:44	9999		0	0			MSG:   Interval value found in DeviceList.ini is	11		
+2015/01/16 20:39:44	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	535ea9cbb7fc6a13352f40895efe2795		
+2015/01/16 20:39:44	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	a696d44f3b1462bdaafd9949115d936f		
+2015/01/16 20:39:44	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NativeLibary", "NativeLibrary\NativeLibrary.vcxproj", "{B0E5207B-8220-4C76-8FE3-89D27ADC3400}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTests", "UnitTests\UnitTests.vcxproj", "{4D0A29F1-EC5E-432A-A3D6-75008F69E6B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{132DC643-879E-4DFA-AF45-3EA38077E812}"
+	ProjectSection(SolutionItems) = preProject
+		MsTestWithUnmanagedCppDemo1.vsmdi = MsTestWithUnmanagedCppDemo1.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MsTestWithUnmanagedCppDemo1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E5207B-8220-4C76-8FE3-89D27ADC3400}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0E5207B-8220-4C76-8FE3-89D27ADC3400}.Debug|Win32.Build.0 = Debug|Win32
+		{B0E5207B-8220-4C76-8FE3-89D27ADC3400}.Release|Win32.ActiveCfg = Release|Win32
+		{B0E5207B-8220-4C76-8FE3-89D27ADC3400}.Release|Win32.Build.0 = Release|Win32
+		{4D0A29F1-EC5E-432A-A3D6-75008F69E6B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D0A29F1-EC5E-432A-A3D6-75008F69E6B6}.Debug|Win32.Build.0 = Debug|Win32
+		{4D0A29F1-EC5E-432A-A3D6-75008F69E6B6}.Release|Win32.ActiveCfg = Release|Win32
+		{4D0A29F1-EC5E-432A-A3D6-75008F69E6B6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

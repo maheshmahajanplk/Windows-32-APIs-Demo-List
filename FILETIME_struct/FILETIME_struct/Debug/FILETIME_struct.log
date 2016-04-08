@@ -1,0 +1,27 @@
+﻿Build started 11/30/2015 12:46:21.
+     1>Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\FILETIME_struct\FILETIME_struct.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FILETIME_struct.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FILETIME_struct.cpp
+         FILETIME_struct.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\Debug\FILETIME_struct.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FILETIME_struct.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\Debug\FILETIME_struct.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\Debug\FILETIME_struct.lib" /MACHINE:X86 Debug\FILETIME_struct.exe.embed.manifest.res
+         Debug\FILETIME_struct.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FILETIME_struct.exe.embed.manifest" /manifest Debug\FILETIME_struct.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         FILETIME_struct.vcxproj -> c:\users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\Debug\FILETIME_struct.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\FILETIME_struct.unsuccessfulbuild".
+         Touching "Debug\FILETIME_struct.lastbuildstate".
+     1>Done Building Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\FILETIME_struct\FILETIME_struct\FILETIME_struct.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.08

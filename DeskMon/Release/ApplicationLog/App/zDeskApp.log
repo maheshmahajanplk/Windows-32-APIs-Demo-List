@@ -1,0 +1,246 @@
+2015/01/18 19:23:29	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 19:30:11	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 19:30:12	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	6b80544e39c3f6fc480843f55f3e0c4f		
+2015/01/18 19:30:12	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	37f8075853957f8b50acddbb5348892d		
+2015/01/18 19:30:12	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 19:47:13	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 19:48:40	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 19:50:26	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	04386952102d042bba71e5f0d45b22e4		
+2015/01/18 19:50:39	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	6b80544e39c3f6fc480843f55f3e0c4f		
+2015/01/18 19:50:53	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 19:53:09	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 19:53:10	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 19:53:10	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	b9d84a9d1b576e634f644a70f1538f08		
+2015/01/18 19:53:10	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	04386952102d042bba71e5f0d45b22e4		
+2015/01/18 19:53:10	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:08:01	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:08:01	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:08:01	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	e168481189e38a7cceec1258c8783350		
+2015/01/18 20:08:01	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	b9d84a9d1b576e634f644a70f1538f08		
+2015/01/18 20:08:01	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:08:25	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:08:25	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:08:25	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	0a8677b0af86849a05df4eec3874a998		
+2015/01/18 20:08:25	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	e168481189e38a7cceec1258c8783350		
+2015/01/18 20:08:25	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:08:53	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:08:53	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:08:53	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	6e5fe6c4f99c5dcff30f7de4fb7cb4bb		
+2015/01/18 20:08:53	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	0a8677b0af86849a05df4eec3874a998		
+2015/01/18 20:08:53	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:09:12	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:09:12	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:09:12	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	e6e535782914407c5a1a3d5472005938		
+2015/01/18 20:09:12	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	6e5fe6c4f99c5dcff30f7de4fb7cb4bb		
+2015/01/18 20:09:12	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:09:31	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:09:31	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:09:31	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	14b79d72d0003bcbd27df56e3e0b8838		
+2015/01/18 20:09:31	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	e6e535782914407c5a1a3d5472005938		
+2015/01/18 20:09:31	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:09:48	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:09:48	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:09:48	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	9f9c30d7ce3bb985628bc57bac533b79		
+2015/01/18 20:09:48	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	14b79d72d0003bcbd27df56e3e0b8838		
+2015/01/18 20:09:48	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:11:37	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:11:37	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:11:37	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	130614cfac77e06857b78bbb67a1718d		
+2015/01/18 20:11:37	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	9f9c30d7ce3bb985628bc57bac533b79		
+2015/01/18 20:11:37	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:12:38	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:12:38	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:12:38	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	bb2f09fdccafa093c70f366b7c204d99		
+2015/01/18 20:12:38	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	130614cfac77e06857b78bbb67a1718d		
+2015/01/18 20:12:38	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:41:28	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:41:28	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:41:28	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	f272f750204ed8c401c375e4b91db0dd		
+2015/01/18 20:41:28	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	bb2f09fdccafa093c70f366b7c204d99		
+2015/01/18 20:41:28	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:42:12	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:42:12	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:42:12	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	ab1a49d9f0da35ecfd43af99605189bb		
+2015/01/18 20:42:12	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	f272f750204ed8c401c375e4b91db0dd		
+2015/01/18 20:42:12	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 20:43:16	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 20:43:16	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 20:43:16	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	93de4cbc5617f7fc2eeb108a34f2c82b		
+2015/01/18 20:43:16	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	ab1a49d9f0da35ecfd43af99605189bb		
+2015/01/18 20:43:16	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 21:04:03	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:04:43	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:06:56	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	ceeb3b52cedaa660156e8f0572673f10		
+2015/01/18 21:07:03	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	93de4cbc5617f7fc2eeb108a34f2c82b		
+2015/01/18 21:07:52	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 21:08:21	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:08:25	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:14:01	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	5aa8dad4ce11d937e9f1c30fbb217a27		
+2015/01/18 21:14:02	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	ceeb3b52cedaa660156e8f0572673f10		
+2015/01/18 21:14:09	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 21:14:32	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:14:35	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:26:02	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	7e11b02cca8eff1d1f2ba229455fee3d		
+2015/01/18 21:26:02	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	5aa8dad4ce11d937e9f1c30fbb217a27		
+2015/01/18 21:26:02	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 21:26:33	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:39:07	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:39:07	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:39:07	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:39:07	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	7e11b02cca8eff1d1f2ba229455fee3d		
+2015/01/18 21:39:07	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/18 21:39:42	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:39:42	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:39:42	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:39:42	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:39:42	9999		0	0			MSG:   moving file to AlertTkt folder as Date changed			
+2015/01/18 21:40:18	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:40:18	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:40:18	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:40:18	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:40:18	9999		0	0			MSG:   moving file to AlertTkt folder as Date changed			
+2015/01/18 21:41:24	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:43:52	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:45:57	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:46:10	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:48:39	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:48:39	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:48:39	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:48:39	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:48:39	9999		0	0			MSG:   moving file to AlertTkt folder as Date changed			
+2015/01/18 21:49:05	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:49:05	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:49:05	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:49:05	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:49:05	9999		0	0			MSG:   moving file to AlertTkt folder as Date changed			
+2015/01/18 21:50:53	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:50:53	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:52:34	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:52:36	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:54:43	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:54:43	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:54:43	9999		0	0			MSG:  moving file to AlertTkt folder as first time read previous checksum(blank) from ini file			
+2015/01/18 21:56:19	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:56:19	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:56:22	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:56:22	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:58:15	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 21:58:15	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 21:58:36	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 21:58:37	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:04	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:03:04	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:03:04	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:04	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:39	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:03:39	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:03:39	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:39	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:58	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:03:58	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:03:58	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:03:58	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:11	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:04:11	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:04:11	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:11	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:21	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:04:21	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:04:21	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:21	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:32	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:04:32	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:04:32	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:32	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:45	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:04:45	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:04:45	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:45	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:58	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:04:58	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:04:59	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:04:59	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:11	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:05:11	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:05:13	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:13	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:25	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:05:25	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:05:25	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:25	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:38	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:05:38	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:05:38	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:38	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:05:38	9999		0	0			MSG:   moving file to AlertTkt folder as web post interval occurred			
+2015/01/18 22:06:02	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:06:02	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:06:02	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:06:02	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:08:02	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:08:02	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:08:02	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:08:02	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:08:02	9999		0	0			MSG:   moving file to AlertTkt folder as web post interval occurred			
+2015/01/18 22:08:15	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/18 22:08:15	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/18 22:08:15	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:08:15	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/18 22:08:15	9999		0	0			MSG:   moving file to AlertTkt folder as web post interval occurred			
+2015/01/19 12:08:41	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/19 12:08:41	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 12:08:41	9999		0	0			MSG:  moving file to AlertTkt folder as first time read previous checksum(blank) from ini file			
+2015/01/19 12:21:00	9999		0	0			ERR: Error in getting MD5 checksum of Config.xml file from DC 			
+2015/01/19 12:21:00	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 12:21:00	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 12:21:00	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 12:44:07	9999		3	0		The system cannot find the path specified.	ERR:   Open File failed of XML Configuration	D:\Mahesh Mahajan\Assignments\C++\DeskMon\Release\Configuration\APP\RMM-PC-341_Config.xml		
+2015/01/19 12:59:01	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 13:00:12	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 13:01:08	9999		0	0			MSG:  moving file to AlertTkt folder as first time read previous checksum(blank) from ini file			
+2015/01/19 14:33:33	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 14:33:50	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 14:34:40	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:34:48	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	dff918cea78db59506bee46b251c88a8		
+2015/01/19 14:35:02	9999		0	0			MSG:  moving file to AlertTkt folder as data changed			
+2015/01/19 14:38:42	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 14:38:42	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 14:38:42	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:38:42	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:46:09	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 14:46:09	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 14:46:14	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:46:14	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:46:37	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 14:52:05	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 14:52:37	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:52:42	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 14:54:33	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 15:07:08	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 15:07:29	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 15:07:30	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 15:09:41	9999		0	0			MSG: Config.xml file has updated successfully on date change event			
+2015/01/19 15:09:44	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 15:09:47	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 15:09:47	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 16:30:14	9999		0	0			ERR: Config.xml file updation failed 			
+2015/01/19 16:31:10	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 16:31:41	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 16:31:41	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 16:32:32	9999		0	0			ERR: Config.xml file updation failed 			
+2015/01/19 16:32:34	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 17:04:10	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 17:04:10	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 17:24:04	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:24:32	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:24:34	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:24:53	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:25:08	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:25:51	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:25:55	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:26:03	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:26:27	9999		0	0			ERR:   Base Machine Name not available in SAAZMobile.ini			
+2015/01/19 17:27:14	9999		0	0			ERR: Config.xml file updation failed 			
+2015/01/19 17:27:42	9999		0	0			INFO: checking NeedToWebPost			
+2015/01/19 17:27:47	9999		0	0			MSG:  RMM-PC-341 Current MD5 checksum	d978362b7823404e1eccfca3cca8eda5		
+2015/01/19 17:27:47	9999		0	0			MSG:  RMM-PC-341 Previous MD5 checksum	d978362b7823404e1eccfca3cca8eda5		

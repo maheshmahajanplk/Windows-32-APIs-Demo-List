@@ -1,0 +1,30 @@
+﻿Build started 04/22/2015 13:24:27.
+     1>Project "D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Crash_demo\Crash_demo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Crash_demo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Crash_demo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Crash_demo.cpp
+         Crash_demo.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\Crash_demo.res" Crash_demo.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Crash_demo.exe.embed.manifest.res" Debug\Crash_demo_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Crash_demo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.lib" /MACHINE:X86 Debug\Crash_demo.res
+         Debug\Crash_demo.exe.embed.manifest.res
+         Debug\Crash_demo.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Crash_demo.exe.embed.manifest" /manifest Debug\Crash_demo.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Crash_demo.exe.embed.manifest.res" Debug\Crash_demo_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Crash_demo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.lib" /MACHINE:X86 Debug\Crash_demo.res
+         Debug\Crash_demo.exe.embed.manifest.res
+         Debug\Crash_demo.obj
+         Debug\stdafx.obj
+         Crash_demo.vcxproj -> D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Debug\Crash_demo.exe
+     1>Done Building Project "D:\Mahesh Mahajan\Assignments\C++\Crash_demo\Crash_demo\Crash_demo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.02

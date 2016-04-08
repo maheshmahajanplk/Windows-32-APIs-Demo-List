@@ -1,0 +1,25 @@
+﻿Build started 08/27/2015 19:08:11.
+     1>Project "D:\Mahesh Mahajan\Assignments\C++\NamedPipeRedirection\redir_demo\project\RedirDemo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\RedirDemo.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\RedirDemo.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\RedirDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Mahesh Mahajan\Assignments\C++\NamedPipeRedirection\redir_demo\project\Debug\RedirDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\RedirDemo.lib" /MACHINE:X86 Debug\RedirDemo.res
+         Debug\RedirDemo.exe.embed.manifest.res
+         Debug\DemoRedir.obj
+         Debug\Redir.obj
+         Debug\RedirDemo.obj
+         Debug\RedirDemoDlg.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1104: cannot open file 'Debug\RedirDemo.exe'
+     1>Done Building Project "D:\Mahesh Mahajan\Assignments\C++\NamedPipeRedirection\redir_demo\project\RedirDemo.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29

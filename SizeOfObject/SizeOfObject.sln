@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SizeOfObject", "SizeOfObject\SizeOfObject.vcxproj", "{CBA6887D-FA67-4063-AED7-23F59B36F57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA6887D-FA67-4063-AED7-23F59B36F57C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA6887D-FA67-4063-AED7-23F59B36F57C}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA6887D-FA67-4063-AED7-23F59B36F57C}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA6887D-FA67-4063-AED7-23F59B36F57C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

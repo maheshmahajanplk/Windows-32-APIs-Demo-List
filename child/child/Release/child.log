@@ -1,0 +1,19 @@
+﻿Build started 08/26/2015 19:49:40.
+     1>Project "D:\Mahesh Mahajan\Assignments\C++\child\child\child.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt child.cpp stdafx.cpp
+         child.cpp
+         stdafx.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Mahesh Mahajan\Assignments\C++\child\Release\child.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\child.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Mahesh Mahajan\Assignments\C++\child\Release\child.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Mahesh Mahajan\Assignments\C++\child\Release\child.lib" /MACHINE:X86 Release\child.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         child.vcxproj -> D:\Mahesh Mahajan\Assignments\C++\child\Release\child.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Mahesh Mahajan\Assignments\C++\child\Release\child.exe;#1" /manifest Release\child.exe.intermediate.manifest
+     1>Done Building Project "D:\Mahesh Mahajan\Assignments\C++\child\child\child.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.55

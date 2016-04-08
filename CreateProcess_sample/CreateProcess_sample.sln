@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateProcess_sample", "CreateProcess_sample\CreateProcess_sample.vcxproj", "{E4E74A5B-05D2-4A55-B261-F46C13BE2058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E74A5B-05D2-4A55-B261-F46C13BE2058}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4E74A5B-05D2-4A55-B261-F46C13BE2058}.Debug|Win32.Build.0 = Debug|Win32
+		{E4E74A5B-05D2-4A55-B261-F46C13BE2058}.Release|Win32.ActiveCfg = Release|Win32
+		{E4E74A5B-05D2-4A55-B261-F46C13BE2058}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

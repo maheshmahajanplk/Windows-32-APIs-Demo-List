@@ -1,0 +1,27 @@
+﻿Build started 01/06/2016 13:08:58.
+     1>Project "C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\NativeLibrary\NativeLibrary.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\UnmanagedLibary.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yc"StdAfx.h" /Fp"Debug\UnmanagedLibary.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Stdafx.cpp
+         Stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yu"StdAfx.h" /Fp"Debug\UnmanagedLibary.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TrivialCalculator.cpp TrivialString.cpp
+         TrivialString.cpp
+         TrivialCalculator.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\Debug\UnmanagedLibary.lib" /NOLOGO /MACHINE:X86 Debug\app.res
+         Debug\TrivialCalculator.obj
+         Debug\Stdafx.obj
+         Debug\TrivialString.obj
+         NativeLibrary.vcxproj -> C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\Debug\UnmanagedLibary.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\UnmanagedLibary.unsuccessfulbuild".
+         Touching "Debug\UnmanagedLibary.lastbuildstate".
+     1>Done Building Project "C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\NativeLibrary\NativeLibrary.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.60

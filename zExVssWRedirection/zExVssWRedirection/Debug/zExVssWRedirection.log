@@ -1,0 +1,21 @@
+﻿Build started 08/27/2015 14:43:16.
+     1>Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\zExVssWRedirection\zExVssWRedirection\zExVssWRedirection.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\zExVssWRedirection.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\zExVssWRedirection.unsuccessfulbuild".
+         Touching "Debug\zExVssWRedirection.lastbuildstate".
+     1>Done Building Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\zExVssWRedirection\zExVssWRedirection\zExVssWRedirection.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

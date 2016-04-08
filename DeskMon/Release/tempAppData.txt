@@ -1,0 +1,15 @@
+<wpappmondata>
+
+<device>
+<regid>2831259</regid>
+<apid>1</apid>
+<port></port>
+<prs></prs>
+<svc></svc>
+<wexcode></wexcode>
+<svexcode></svexcode>
+<scmcode></scmcode>
+<status>N</status>
+</device>
+
+</wpappmondata>

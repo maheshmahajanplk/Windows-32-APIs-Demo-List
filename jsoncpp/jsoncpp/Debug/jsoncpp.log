@@ -1,0 +1,128 @@
+﻿Build started 11/06/2015 11:57:15.
+     1>Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\jsoncpp\jsoncpp\jsoncpp.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\jsoncpp.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\jsoncpp.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\jsoncpp.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\jsoncpp.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt jsoncpp.cpp jsontest.cpp
+         jsontest.cpp
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(2): warning C4627: '#include "jsontest.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(4): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS' : macro is not defined or definition is different after precompiled header use
+                 Add macro to precompiled header instead of defining here
+                 c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(5) : use of precompiled header
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(74): error C2653: 'TestResult' : is not a class or namespace name
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(78): error C2550: 'JsonTest::TestResult' : constructor initializer lists are only allowed on constructor definitions
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(80): error C2065: 'rootPredicateNode_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(80): error C2228: left of '.id_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(81): error C2065: 'rootPredicateNode_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(81): error C2228: left of '.next_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(82): error C2065: 'predicateStackTail_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(82): error C2065: 'rootPredicateNode_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(83): warning C4508: 'JsonTest::TestResult' : function should return a value; 'void' return type assumed
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(87): error C2653: 'TestResult' : is not a class or namespace name
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(87): error C2039: 'string' : is not a member of 'std'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(87): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(87): error C2143: syntax error : missing ',' before '&'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(89): error C2065: 'name_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(89): error C2065: 'name' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(92): error C2143: syntax error : missing ';' before '&'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(92): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(92): error C2365: 'JsonTest::TestResult' : redefinition; previous definition was 'function'
+                 c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(74) : see declaration of 'JsonTest::TestResult'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(93): error C2653: 'TestResult' : is not a class or namespace name
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(95): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(98): error C2065: 'PredicateContext' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(98): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(98): error C2065: 'rootPredicateNode_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(98): error C2228: left of '.next_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(99): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(99): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(99): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(99): error C2227: left of '->next_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(101): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(101): error C2227: left of '->id_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(101): error C2065: 'lastUsedPredicateId_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(103): error C2065: 'lastUsedPredicateId_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(103): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(103): error C2227: left of '->id_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2227: left of '->file_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2227: left of '->line_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C2227: left of '->expr_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(104): error C3861: 'addFailureInfo': identifier not found
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(108): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(108): error C2227: left of '->failure_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(108): error C2065: 'failures_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(108): error C2228: left of '.back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(114): error C3861: 'addFailureInfo': identifier not found
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(115): error C2065: 'messageTarget_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(115): error C2065: 'failures_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(115): error C2228: left of '.back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(116): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(116): warning C4508: 'JsonTest::addFailure' : function should return a value; 'void' return type assumed
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(121): error C2653: 'TestResult' : is not a class or namespace name
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(124): error C2065: 'Failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(124): error C2146: syntax error : missing ';' before identifier 'failure'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(124): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(125): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(125): error C2228: left of '.file_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(126): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(126): error C2228: left of '.line_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(129): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(129): error C2228: left of '.expr_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(131): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(131): error C2228: left of '.nestingLevel_' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(132): error C2065: 'failures_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(132): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(132): error C2065: 'failure' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(136): error C2143: syntax error : missing ';' before '&'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(136): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(136): error C2365: 'JsonTest::TestResult' : redefinition; previous definition was 'function'
+                 c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(74) : see declaration of 'JsonTest::TestResult'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(137): error C2653: 'TestResult' : is not a class or namespace name
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(138): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(139): error C2039: 'PredicateContext' : is not a member of 'JsonTest'
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(139): error C2065: 'PredicateContext' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(139): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(139): error C2065: 'rootPredicateNode_' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): error C2227: left of '->next_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): error C2065: 'lastNode' : undeclared identifier
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): error C2227: left of '->next_' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): error C2227: left of '->next_' must point to class/struct/union/generic type
+     1>c:\users\mahesh.mahajan\documents\visual studio 2010\projects\jsoncpp\jsoncpp\jsontest.cpp(140): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         jsoncpp.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\mahesh.mahajan\documents\visual studio 2010\Projects\jsoncpp\jsoncpp\jsoncpp.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.94

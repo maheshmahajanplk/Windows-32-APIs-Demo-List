@@ -1,0 +1,22 @@
+﻿Build started 01/06/2016 15:23:50.
+     1>Project "C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\NativeLibrary\NativeLibrary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\UnmanagedLibary.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Stdafx.cpp
+         Stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\UnmanagedLibary.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TrivialCalculator.cpp TrivialString.cpp
+         TrivialCalculator.cpp
+         TrivialString.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\Release\UnmanagedLibary.lib" /NOLOGO /MACHINE:X86 Release\app.res
+         Release\TrivialCalculator.obj
+         Release\Stdafx.obj
+         Release\TrivialString.obj
+         NativeLibrary.vcxproj -> C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\Release\UnmanagedLibary.lib
+     1>Done Building Project "C:\Users\mahesh.mahajan\Documents\Visual Studio 2010\Projects\MsTestWithUnmanagedCppDemo\NativeLibrary\NativeLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.43
